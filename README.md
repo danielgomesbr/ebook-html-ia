@@ -38,7 +38,7 @@
 
 ## 🛠️ Vamos ver como ficou o Ebook? É facil, o link está abaixo.
 
-🎞 Clicando [aqui](https://youtu.be/UtZocpUGFcw) você já consegue ver o Ebook.
+🎞 Clicando [aqui](https://github.com/danielgomesbr/ebook-html-ia/blob/main/output/ebook-html-ia.pdf) você já consegue ver o Ebook.
 <br>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
