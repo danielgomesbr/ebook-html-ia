@@ -28,7 +28,7 @@
 - Ebook feito no PowerPoint.
 - Capa gerada no Craiyon.
 - Imagem do Escudo HTML, baixada do Google.
-- Imagem de código estiloso criada no ShowCode.
+- Imagem de código estiloso, criada no ShowCode.
 - Redimensionamento de imagens, feito no GIMP.
 <br>
 
