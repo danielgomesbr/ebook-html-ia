@@ -1,4 +1,4 @@
-# 📚Prompt para o Craiyon gerar a imagem do Ebook.
+# 📚Prompt para o Craiyon gerar a imagem de capa do Ebook.
 
 Gere a imagem de um guerreiro medieval, apoiando suas mãos em uma espada, que está com a ponta da lâmina encostada no chão, <br> a imagem terá o estilo pixel art.
 
