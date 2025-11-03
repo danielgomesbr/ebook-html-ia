@@ -11,6 +11,8 @@
  # Ebook - A Jornada FrontEnd
 > Projeto feito com I.A.s, com o objetivo de aperfeiçoar o conhecimento na área.
 
+<br>
+
 ## 💻 Tecnologias utilizadas no projeto
 🔗 Links
 - [ChatGpt](https://chatgpt.com/)
