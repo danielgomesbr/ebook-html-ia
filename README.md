@@ -32,7 +32,7 @@
 
 ## 📚 Prompts para realização desse projeto.
 - 🎙️ Para gerar o conteúdo no [ChatGpt](https://github.com/danielgomesbr/ebook-html-ia/blob/main/prompts/chatgpt.md)
-- 📘 Para gerar a capa feito no [Craiyon](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/gemini-ideogram.md)
+- 📘 Para gerar a capa feito no [Craiyon](https://github.com/danielgomesbr/ebook-html-ia/edit/main/prompts/craiyon.md)
 - 👀 Veja como ficou a [Capa](https://github.com/danielgomesbr/ebook-html-ia/blob/main/imagens/capa-ebook.png)
 <br>
 
