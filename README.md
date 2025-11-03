@@ -21,11 +21,39 @@
 - [GIMP](https://www.gimp.org/downloads/)
 <br>
 
-## ✨ Como foi feito ?
+## ✨ Como foi feito?
 - Conteúdo criado com ChatGpt.
 - Ebook feito no PowerPoint.
 - Capa gerada no Craiyon.
 - Imagem do Escudo HTML, baixada do Google.
 - Imagem de código estiloso criada no ShowCode.
-- Redimensionamento de imagens para o GitHub, feito no GIMP.
+- Redimensionamento de imagens, feito no GIMP.
 <br>
+
+## 📚 Prompts para realização desse projeto.
+- 🎙️ Para gerar o conteúdo no [ChatGpt](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/chatgpt.md)
+- 📘 Para gerar a capa feito no [Craiyon](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/gemini-ideogram.md)
+- 👀 Veja como ficou a [Capa](https://github.com/danielgomesbr/podcast-ia/blob/main/output/capa-devpah.png)
+<br>
+
+## 🛠️ Vamos ver como ficou o Ebook? É facil, o link está abaixo.
+
+🎞 Clicando [aqui](https://youtu.be/UtZocpUGFcw) você já consegue ver o Ebook.
+<br>
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+##
+
+<br>
+
+<img align="left" width="60" height="82" alt="danielgomesbr8" src="https://github.com/user-attachments/assets/f6d6923e-7a8c-44dd-93c7-3355453b6bf0" />
+
+<br>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/danielgomesbr?tab=repositories)
+
+<br>
+
+---
+Feito com carinho💚 por [Daniel S. Gomes](https://github.com/danielgomesbr?tab=repositories)
